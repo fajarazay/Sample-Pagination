@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sample Pagination</string>
+    <string name="content_desc_img_user">image user</string>
+    <string name="hint_search_github_users">Search Github Users</string>
+    <string name="text_message_empty_result">The Github User you were looking for could not be found.</string>
+    <string name="text_message_error_limit_request">Sorry, this API has a limit of 10 hits per minute. Please try again later.</string>
+    <string name="text_empty_username">Please input username.</string>
+    <string name="text_warning">Warning</string>
+    <string name="text_check_internet">Please check your internet connection.</string>
+    <string name="text_message_error_request">Ooops sorry, there\'s something wrong. Please try again later.</string>
+</resources>
